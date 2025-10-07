@@ -30,7 +30,7 @@
     </site>
     <snapshotRepository>
       <id>maven-snapshots</id>
-      <url>http://52.4.148.148:8081/repository/maven-snapshots/</url>
+      <url>http://54.91.247.213:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 
